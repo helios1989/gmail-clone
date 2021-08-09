@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/vergelbarit/.dotnet/store/|arch|/|tfm|",
+      "/Users/vergelbarit/.nuget/packages"
+    ]
+  }
+}

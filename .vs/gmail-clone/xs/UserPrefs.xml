@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{A378AF33-436B-42AC-A4DE-1653299FA541}|Default">
+  <MonoDevelop.Ide.ItemProperties.gmail-clone PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="gmail-clone/Controllers/MailController.cs">
+    <Files>
+      <File FileName="gmail-clone/Repositories/PostRepository.cs" Line="22" Column="54" />
+      <File FileName="gmail-clone/Startup.cs" Line="1" Column="1" />
+      <File FileName="gmail-clone/Program.cs" Line="16" Column="1" />
+      <File FileName="gmail-clone/Services/Interfaces/IPostServiceInterface.cs" Line="10" Column="30" />
+      <File FileName="gmail-clone/Services/PostService.cs" Line="31" Column="70" />
+      <File FileName="gmail-clone/Services/MailService.cs" Line="29" Column="1" />
+      <File FileName="gmail-clone/Repositories/Interfaces/IPostServiceRepository.cs" Line="11" Column="30" />
+      <File FileName="gmail-clone/Repositories/Interfaces/IMailServiceRepository.cs" Line="11" Column="1" />
+      <File FileName="gmail-clone/Repositories/MailRepository.cs" Line="27" Column="3" />
+      <File FileName="gmail-clone/Services/Interfaces/IMailServiceInterface.cs" Line="11" Column="5" />
+      <File FileName="gmail-clone/Controllers/MailController.cs" Line="66" Column="1" />
+      <File FileName="gmail-clone/Controllers/PostController.cs" Line="51" Column="14" />
+      <File FileName="gmail-clone/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gmail-clone" expanded="True">
+            <Node name="gmail-clone" expanded="True">
+              <Node name="Config" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="MailController.cs" selected="True" />
+              </Node>
+              <Node name="Dtos" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="gmail-cloneTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>response</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vergelbarit/Projects/gmail-clone/gmail-clone/Controllers/MailController.cs" relfile="gmail-clone/Controllers/MailController.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
