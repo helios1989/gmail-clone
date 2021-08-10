@@ -1,0 +1,42 @@
+.sidebar {
+    display: flex;
+    margin-left: 10px;
+    flex-direction:column;
+    width: 20%;
+}
+.sidebar_compose {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px whitesmoke;
+    border-radius: 30px;
+    outline: whitesmoke;
+    justify-content: flex-start;
+}
+.MuiButton-text.sidebar_compose {
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+.right-side-box-inbox {
+    display: flex;
+    flex-direction: column;
+    max-height: 250px;
+    overflow-y: scroll;
+}
+.right-side-box-inbox > .icontext-child {
+    padding: 10px;
+}
+
+.right-side-box-inbox :nth-child(1):hover {
+  background-color: lightcoral;
+  border-radius: 10px;
+}
+.side-box-footer-socials {
+    display: flex;
+    /* bottom: 0;
+    position: fixed; */
+    justify-content: space-around;
+    align-items: center;
+}

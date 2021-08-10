@@ -1,0 +1,13 @@
+.login-container {
+    /* background-color: red; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-credentials {
+    width: 500px;
+}
+
+.login-container input {
+    width: 100%;
+}

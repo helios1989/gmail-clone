@@ -1,0 +1,59 @@
+.new-message-popup {
+    height: 500px;
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    border: 1px solid whitesmoke;
+    right: 50px;
+    border-radius: 5px;
+}
+.new-message-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    background-color: black;
+    color: white;
+}
+.new-message-header  * {
+    color: white;
+}
+.height-icon {
+    transform: rotate(45deg);
+}
+.new-message-popup .MuiButtonBase-root {
+    border-radius: 0;
+}
+.message-to {
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+}
+.message-to input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid whitesmoke;
+    padding: 15px 10px;
+}
+.message-to .MuiInput-root {
+    margin: 0 15px;
+}
+.message-to .MuiInputBase-input,
+.message-to .MuiFormControl-root {
+    width: 100%;
+}
+#message-description {
+    width: 100%;
+}
+.MuiFormControl-root.MuiTextField-root {
+    display: flex;
+    padding: 20px
+}
+.MuiInputBase-multiline::before,
+.MuiInputBase-multiline::after {
+    border: none !important;
+}
+.message-buttons {
+    margin: 0 20px;
+}
