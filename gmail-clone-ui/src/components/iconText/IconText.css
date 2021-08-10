@@ -1,0 +1,15 @@
+.icon-text {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+.icon-text .text {
+    margin-left: 10px;
+    width: 100px;
+}
+.icon-text .highlight {
+    color: red;
+    font-weight: 700;
+}

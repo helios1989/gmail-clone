@@ -1,0 +1,18 @@
+.mail-message {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.mail-box-left {
+    display: flex;
+    width: 30%;
+    align-items: center;
+}
+.mail-box-center {
+    display: flex;
+    width: 50%;
+}
+.mail-box-right {
+    display: flex;
+    width: 20%;
+}

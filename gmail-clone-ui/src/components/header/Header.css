@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px;
+    padding: 10px;
+    border-bottom: 1px solid whitesmoke;
+}
+.header_left{
+    display: flex;
+    width: 20%;
+}
+.header_left > img {
+    object-fit: contain;
+    margin-left: 5px;
+    height: 60px;
+}
+.header_center {
+    display: flex;
+    width: 60%;
+}
+.header_right {
+    display: block;
+    width: 20%;
+    text-align: right;
+}

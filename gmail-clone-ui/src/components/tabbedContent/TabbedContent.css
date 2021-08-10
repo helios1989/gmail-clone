@@ -1,0 +1,24 @@
+.tabbedContent {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.button.MuiButtonBase-root.MuiTab-root.MuiTab-textColorSecondary.Mui-selected.MuiTab-labelIcon.MuiTab-fullWidth {
+    display: flex;
+}
+.tabbedContent .MuiTab-wrapper {
+    flex-direction: row !important;
+}
+.MuiTab-labelIcon .MuiTab-wrapper > svg {
+    padding: 10px;
+}
+.MuiTab-labelIcon {
+    min-height: 0;
+    padding-top: 0;
+}
+.tabbedPanel {
+    display: flex;
+}
+.tabbedPanel > div {
+    width: 100%;
+}

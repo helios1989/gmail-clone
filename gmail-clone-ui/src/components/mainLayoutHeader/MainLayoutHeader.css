@@ -1,0 +1,26 @@
+.mainLayoutHeader {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    width:100%;
+}
+.mainLayoutHeader-left {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    width: 100%;
+    width: 50%;
+}
+.mainLayoutHeader-right {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+.mainLayoutHeader-right > * {
+    padding: 10px;
+  
+}
+.MuiPaper-root.MuiMenu-paper.MuiPopover-paper.MuiPaper-elevation8.MuiPaper-rounded  {
+    top: 98px !important;
+    left: 480px !important;
+}

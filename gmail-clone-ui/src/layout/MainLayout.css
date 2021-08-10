@@ -1,0 +1,13 @@
+.main-content {
+    width: 80%;
+    border: 1px solid red;
+    display: flex;
+    height: auto;
+    max-height: 600px;
+    overflow-y: scroll;
+    flex-direction: column;
+}
+.tabbedContent {
+    display: flex;
+    width: 100%;
+}
